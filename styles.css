@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Outfit', sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   color: hsl(220, 15%, 55%);
   background-color: hsl(212, 45%, 89%);
   display: flex;
@@ -46,7 +46,7 @@ body {
 
 /* QR code heading */
 .qr-code-heading {
-  font-size: 18px;
+  font-size: 20px;
   color: hsl(218, 44%, 22%); /* Dark blue color from the style guide */
 }
 
